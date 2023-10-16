@@ -8,6 +8,7 @@ include("auth_session.php");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<, initial-scale=1.0">
     <title>PHP Login test - T-Level</title>
+    <link  type="text/css" rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="form">
